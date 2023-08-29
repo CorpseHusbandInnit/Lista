@@ -108,40 +108,40 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media
 #EXTINF: -1, FX
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FX/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=1107001859&_cdn_timestamp=1693296179&_cdn_token=ba9b6bd862046345e26b7c572d9bafe38f4b8390
 
-#EXTINF:-1 group-title="Bics Extra", USA | Universal TV
+#EXTINF:-1, group-title="Bics Extra", USA | Universal TV
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=1107002259&_cdn_timestamp=1693296198&_cdn_token=c8a31b549452b76567f9318ac10ce409215f4d59
 
-#EXTINF:-1 group-title="Bics Extra", USA | HBO
+#EXTINF:-1, group-title="Bics Extra", USA | HBO
 http://177.53.153.21:8001/play/a03b/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", USA | HBO 2
+#EXTINF:-1, group-title="Bics Extra", USA | HBO 2
 http://177.53.153.21:8001/play/a03i/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", USA | HBO Family
+#EXTINF:-1, group-title="Bics Extra", USA | HBO Family
 http://177.53.153.21:8001/play/a04g/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", USA | HBO Xtreme
+#EXTINF:-1, group-title="Bics Extra", USA | HBO Xtreme
 http://177.53.153.21:8001/play/a04h/index.m3u8
 
 #EXTINF:-1 group-title="Bics Extra", USA | HBO Pop
 http://177.53.153.21:8001/play/a01y/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", USA | Cartoon Network
+#EXTINF:-1, group-title="Bics Extra", USA | Cartoon Network
 http://177.53.153.21:8001/play/a03d/index.m3u8
 
-#EXTINF:-1 group-title="Bics Extra", USA | Nickelodeon
+#EXTINF:-1, group-title="Bics Extra", USA | Nickelodeon
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=1106965907&_cdn_timestamp=1693294345&_cdn_token=34b9de6c77d035c5ad23c78b76bfed579eddf35a
 
-#EXTINF:-1 group-title="Bics Extra", USA | Nick Jr.
+#EXTINF:-1, group-title="Bics Extra", USA | Nick Jr.
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=1106966075&_cdn_timestamp=1693294353&_cdn_token=e2c1c68adac50d1613fa38f2f808bdec981b11db
 
-#EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
+#EXTINF:-1 , group-title="Bics Extra", Fox Sports Premium
 http://166.0.208.24:4481/andrew/depelicula2/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
+#EXTINF:-1 , group-title="Bics Extra",  Fox Sports 2 USA
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1107030931&_cdn_timestamp=1693297588&_cdn_token=00e99bc9f1b72f5de9bd0d00ddbfa81f7a22f69c
 
-#EXTINF:-1  group-title="Bics Extra", Fox Sports 3 USA
+#EXTINF:-1 , group-title="Bics Extra", Fox Sports 3 USA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=1107029779&_cdn_timestamp=1693297530&_cdn_token=a2dc0b929de5d288e3a5d095575ae70aac69bde4
 #EXTINF:-1  group-title="Bics Extra", ESPN USA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1107030315&_cdn_timestamp=1693297560&_cdn_token=633a549542cd08711de815518e4256194baf7b4e
@@ -188,40 +188,40 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nfl.network.
 #EXTINF:-1 group-title="App2tv", NHL Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nhl.network.usa.us.m3u8
 
-#EXTINF:-1 TELEMUNDO
+#EXTINF:-1, TELEMUNDO
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CqQF6ZYUph5WaLqiY62JEv7GBSc0_PO6oTVR5EuwF2FdA7J0WOyXiYR2mSc1wkCu-Zvav6MBnip3zBN8rFXWZCwpwLJuZeI6CpWEUpv1SRIIy0eaNiF9_1DWkCkHrMsEhYT5vxq2v2W5cA9bm3pKfBhcoeJR43um6wUxg062lihP6tJ_uAZ58pBAQA2QBjf4e9-VaYOvgWrGzKDwPzj9wOGJRfXRhuBvpw7IAgez-DAuXibKqvXhPYPZDYjs0W9og8Zw9R_DfhSZywndlY07cocdcEwrCBT2bzEo_fqxnCrd0Kh7DVk45-S_gtPa0x1YjYi_3cHgheKePJix5bJh8MsrGhC1w7DPtinOvt_l1o1mcaWnH8jALaMIoOzsyEeGpdYRcYXsfqGgB-l8PL8h81_NhGx-ae4vHjnHmAAcRq_0wuyxeW9xAhhWGIRY9dnTEOf7oK5DZjfXc8VopDmtA2ORsem_DLnJUXIUgJWoyTFtfFuEu0uun1loiCNZVHODptSwlW0YBx5yT3eLNlCYSoyGqmtJu5Ujq45gEtjP3ZVEGl_9dz6s8aH6tvhe-aGOoOTqFzltOD9OBPyIKzCiZv9RXI5hvof7l-fCBKWW0RsoKM1YJhmK5EgqWA3f1uecRrmjCUAIxv7figsDO3nY5Rv-CdiibPZHclDnWCrMiRSAix_fOITW5pjW12HWJeNBvMekvAKKFOfRMT_SmyzfEPlQwR8RoG7rhYt062IqmOOxvHylAcJ2CC5CCjzK3PnpbnjmszPZk2MEiqtjqpvioL1s2qfdB04DyKU-thUaZFvVCR7MGtgiQIZYSYwLIQe4Y1vD6eiptdTbLG5DS8ZXz1fV9Pl5bd4TV6zAC3e2Y3SQV94ZaYaD1LFqupjMwaN0jq52M_fvkxoMfgltvWT9SlPp2mOTIAEqCXVzLXdlc3QtMjCyBw.m3u8
 
-#EXTINF:-1 LOS SIMPSONS
+#EXTINF:-1, LOS SIMPSONS
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CqcFtZHAylMwDNCvxeVXy-HWL4PhzjJkKtyI7wvsDLFBt2VDLHz0nZLkipwNcve3HmuU-bzkeCrqN5YbnErfxTWN7uWO4DQdFaJor0cPrebauMFtF40FgE9iS34o2mOKjqddYINMX3BNv5w6CK47uka8joImqxM3eHMX68_z3Sk66D8CyBUegrYichpO0xl_-yaKqS1_mEtwlNfFERdkKgum0N6wxGvMEEpnybYIvU5_zCxzVB6H62V3QaQH47V5CJ7KkbX_T8u1aFRJ68QM_-yB0W7rE27mXo8gZjkqr2WPR9Smg9YXjhuWAL0k30jJyIEjZNTDrJvFzwCBdcFqFTYJJXrP3gxkVqey0O8ky16d0CDMcaklNwRtNkEIwUqSjRZ22GpznkdKMv3LzgD5h_njbvtJmwja2GI67TyLhKjzQAs5NmBK0bK1JHhJwofDK9gPmRFdnkEcjny9yBvFDKxvWGIZIS4fRpVRDCkmnZh79UPg1HrNL08gRtGy2KUqQsplwPL41gR6KUse117SN-ET5jplcripqrUIRA5QtSglTC5RohXT3Cwv98grlz1J5zkqBaVyoNPQChfB7Pxkw_R5u6u59bk_x2boB8wF9ZpphLcFb2VkyeXES6TYNmAA1D2rLR1yrcOgHH4b1KIWDFbAB8XfUREPAs-8ph0nUId9WXZc4fHUnKrGsWlJeAUmZGqD4d0UyBXXebVUn5--40pV2Quwe5jILk1gVBXnHzSB0kothn825u_e6S2kxigearWZErJTq6gh6EmmHu_b2nSC9fyI40LHnjb_GWBTzYs9HqLADHNP1vphcddYADKDOJHlGyUDJx4eY3nDLn7JV-j51Ru2YHb6nE1bZHOzFD7QpiKQ-IAHyzJvx_dCbHCV3UQkAPp9rOp1BRoMJybPWCDfioSM7sPoIAEqCWV1LXdlc3QtMjCzBw.m3u8
 
-#EXTINF:-1 HISTORY CHANNEL
+#EXTINF:-1, HISTORY CHANNEL
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CqIFzRsQwJXEH3lu_HvMOgTxIjKyK0w8osk7KdeqQoBa2_eYTIAN79VBsSNHzV3oVIkC8cltFBpjkavp30aY38l-gs2OCLAfQYj6t-t_8qMwvWYho-Zte0bj3DOWZvPN8UyEY6RMOOJdR9Gijp1x0O-dSSfg9sCmTA9SjOjDhR4HY5kVsoeKoKvk2aolmsjsHQ3EC98tuJ0mtdu06WixUed55xFR5qlujn7qi0ddEXzNx7LP5sJ0XX3YvsPPie6MwB4_mfGzKFtcFYBl8qh9MZh416IgMj9B7WNCbz-FbIfuTwl-Et1XznA3Hr11SPYB0uHYY8LcRdzrsfSdSyGAvKg4Begkzh52OpMPqT4MhKHLlbFh07uoCUBCVQpIhC8ASG5U9BvE01U9rTkHQ_rFTQIR459LC137QfHbvf3Ot7aD3nNSIWJuyMnt3K345mjmOMwqstQatZv_op7DorKZkG3a-8e81SBczm7KO4m3SOySkEQJq-C4eouDkLBWmz6HF4H-tsysVSenqmHmzhb9Iq15hbGUCWKwZPCds1trJLSpSnMapTQYfvixVBLTQBcsyvmvGsmCGMpTYXMCeXpPU0vst8IjSybe-pSxZ6T7WhoJE_A5UGhZitP2FtqVeKmdlwjmsiUXh2jNFtmFTeU62PhG7rhWJ-QA0CHFarRFFGQMZ5XdZQLSXKXISGa7sOALSCeLLVwqoX__4yl7P6PansQGJDH-EwTTIMFB4Fm9slW_PgIwqBDmkFtDNRBLLcy8nDyPg3acEIYhTx7XtJCVcMMzpm8-j0d5LhWaQoBIOG_pvH4tZHCWrJaaQkNL9_P8q3VrNLxFr6Fw2KZCEDsHB_QuXkkfc0MAYwlU9BvuBlT0y1wVt1mM4fk1ETOzg2Jinx-Wv9saDBrfL-vBZ09lCtO1YCABKglldS13ZXN0LTIwswc.m3u8
 
-#EXTINF:-1 HBO
+#EXTINF:-1, HBO
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cp8Fbt6NM5dn86j4ADdnNa0EM5be-b2lxPoMT6LjHD1D_6fjv5iyzsUtzHxY3uXD6L6qXwsyCqdHKoY45WNSk0HRhHI7N9KroQ2ezshhIIttwN484a3gCB_ge7RNOGC7VOOceiNB3vRQy82E1duN6_rL1eg4woEfoT4N15ZNsqPSD5Y_uCzh7fOshecwiaapoITXTleUj34Cwn31bYhJGM8KYQuHgZepCIBfO6GwSTP3KLS3Sx7rwDRtCYLFwqLH3eWlRJvMxYalOAG83iWoXqtBHkNkRBjeL7SXGFm5RRKHbhY7MIsZo-w-KHs0a-nGJoLHiOS1gSKRczvpLNbTdhXgBUhCVfblexW6ECMXJjrwMH7sfEI6FLti2GtZ6Nnt3wsEdM10h_el-IZ9WSHDojDYcrjT_LtQXeRAtBYSmlklHeQv_eKqAyLdX4Q_ta76uA_uHQcQ77V-RTkTSIcrhzaACgZJwMliGHUm8suXrOR9eWrB0AZ-JZxoco2To-7PJY3hm-7_8GivSYc6mtyyU0B89ZIrxm-VQ0u-RKXDvFAuDLmCNbRky_K7d9ejUaJri9fKRGOBjB1fZUOUGB0JpaAfGv7QpwMnxepsGgAWiiHFgmWxKnGPTXgbuX56hHRStCQxs4aHiedpSz6Wbm_vQpSTZe5sJKecnk1XB9C8oqnV2gLRfDAsPAN3LSA1VH7fRhEypBTLJ9JVagUFMbUEn8ZQTwsz__j_mW3lkeiFqLFyXxxtnJVlbvillQEtNnPhd-Zu04k6REQQm_oiEPdCTj0lV2KmDSIOLXnmZ-jIhVs4m_KsZsTQxwrxdP_aBmjJ3th1gwbEL9rTVXwVLh1o5jZzvquf2H9rZj3DFoIBYcP7pgMx0J7c97hxpSg86SNPgBgaDC1vLob6uRVVZIfzYyABKglldS13ZXN0LTIwswc.m3u8
 
-#EXTINF:-1 HBO2
+#EXTINF:-1, HBO2
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CqAFjTbQyGJD42O8mZ2nKW80mWBODHaBF5jLW84_RAF4HDSytVIHToLlVWAxcGvHBRVmsihtQi6BZMI04to0LbCMu0JWg_KP82D8gNixzHiVUA6xlm-NWhcrg61XO5K6amkpAKbqunqd5x7Q0rY2VK8zbML8D7qH84SzaQDZKavPNQp0AC0RzAUs4tseoUkmEUOkUQqczvOZKMbfME-KEzoBK2qmwwX0xtdXZEBd5C7NDv70yJjRTyRUNhAjrqg9dMnAavp7rwyyYg9v4nYILvZYPQV2ZhEcd8-wIgtsL-E99gXldudXFzs52FazdGQHkOhdyWxHba2Vk0Xwwi3sCLgCpiW1tsKky9iM9URMFocJFZkEG7buMp68WO0JgpPM3qNSgR6mvQzhpXO5vNn7Co8XGkuqS7jmOnkReOouc7T4VaB8Q4I1r4df7d-ugupl3e8c8NUQG2QyT4GLxNooIPSXjfV4ahiLqPRqSgnd3ktIbkbzcPlTDptd3Zqbfz8ZRhE6KU6Oz8eIMKd7Oc8Y5Q0o_oU2MhYUxK-bzWzF80w6FBWU7XIC3Y_0xrhluk_CRG50fAKDepyIBRaOodUojIdfx4531GZxLPLrqS3kX_7uzw6cLp8f8hFyJYdDXdkYo08qlFv_sbuf7UwqGwtfyNEFq8XKyCAzX2dkGHMISu-ZEvWdZmJFR4npsRYIIbFUs0eob8elFbyzmZ1xEdoeVkk8rS4i_QYGwTSuGwrZYekCn3eWFpN8N-LEtA7KXIRBlD6tUSwjSO-bsRjyyIVhjh6LuCCdKub8MYALPIWiB-wxVV5CSRHsXBWiFdAfH_1nALaBZfXw_JFTfPzQvcBSla0eurrCHhTon_bDNOkLLSa2rZPMc4sCcKkPSIqJKrrgOpCWGgxKfMcMm_YO4A6itE4gASoJZXUtd2VzdC0yMLMH.m3u8
 
-#EXTINF:-1 DISNEY CHANNEL
+#EXTINF:-1, DISNEY CHANNEL
 https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/Cp0FEeNfveDMapgvOrIACeLhe6ZUM2VhjyoABncwjQ3OdJ6WdR3E-z2McNEqNjEezFnkkPRNOPySNzWUkaUNQ7_xBXVx-3w5hifsAdl-i-Pr7iEthjURzz79DB1CCF2eBLd4Wn8W5z33DzzCSmXllGUWuSWb88NFnRTjnhET_JnZB7X5iWiFL_29saO_aOIxyh2Ufx5b3U7HThTvO3vW_6y1kmpbZetfC9GZ_t5aC2wJV7TXLzOWBZGGSdd1UJwKAYZv3EkU1pT3qz0Lxn3FuLQEu4SZ5Ku63RKIT4kUZGGgFLo1AtVngYw916Q0vl5lISi46R1f_vEbIehw4lg7r79VVmaN5xX_4Nhc4h0oNlpDp_WcbX2NLzWlPsIeTbWuWdJgMU1om4f_q0kKL4B7R0DywqOvsJdcTIIXcdSYzkEYITF0mdjZNSwgCKlMlWKaDk0807Gb8_r3NmCda0u-0tZGhe8O59wp1EbIpNgeQI5F3HFWZsK344iXxzRh8ZjYv0ZTqNFh21rGbptsqkptPt2pg81yfsgMo1CRpKu6k2p5qVHa2BaLSMJK5LFVjriOPGciGgEB_Jx7oC7kMD2Qbum4kg-ql0pnR9Z8EMCKCbigG6HTRZFMcdhjjQXYMVuwP51SEjK7z65I6uY2kqidMGMSpOQaxYKTVJJZDTheLh4zY_ikE3VHF0aSit43wF1SctVHNCEFid8lXSbPACZgRwQCDQV_x1guxcGXiUEtEqouyL1DkT1Jo76bpCTJlXChpsMGVEj1hq0Z46LAFDDm-HILmF45s3GIA6Wlw4RYYNm4YcnrrCc6E6hLm7J2V_16S6BRH1gPWsU0iO0_RuNU2J-QnNxQ0zL5HeU4q02BNHvQCT9BABL0NPPlGLBuw9KjGgz9gOxztZlNQ9W3FEIgASoJZXUtd2VzdC0yMLMH.m3u8
 
-#EXTINF:-1 FOX PREMIUM SERIES
+#EXTINF:-1, FOX PREMIUM SERIES
 https://usher.ttvnw.net/api/channel/hls/df_010t.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=2725773&play_session_id=e087264228650ea08ace8f45c78490e5&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=7554dc17546cf5d53ad9df566fc1c193262c8b22&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22df_010t%22%2C%22channel_id%22%3A805947493%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2202531ded21d5fc87%22%2C%22expires%22%3A1693296226%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.33.200.23%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.21.0
 
-#EXTINF:-1 DISCOVERY CHANNEL
+#EXTINF:-1, DISCOVERY CHANNEL
 https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CqEFWaDfXkATAsH7ryPMiLqjzQCBFIPNWoOjIM9xlj_7fQMoj57EQ8_Sr2vECA6GZzuQQCFel_lcWLMxO2yZp5b4pMk0z94VAUxJHq96c5w7ypHCwOISXpTwS6pp4KTB5hxz5vh5AbsxHhlg3QxrcjKf5nf5fAWWI7gX7F0mgt5nGQt-JnTaRo08Os_BSBU02Ihyg2hgLIsISSvt7FCmQ6Z962vhpPNvTzU2iJklZdhhH9o8MTZZ8SjupI5ctiK2QSZe0YfAjXqxRDSGLeO8iq1tLtDqYC4bMbWsFE2PycbixTwlRu8PCQMDOF3X5qbSXBPxr-GRav6L3qtXUToFW-aBAdiPPWLPXCT09vL1Tyol9DNAvLdRGqO_FtWMozULhsCfQQoPE1iik5W38muS5aKAulfqj_B3PXucIZh_8cqFHKLSZmqpw0TmTZTQO-DHH9cig5_B841qnEtSRZl3IkCV1t-b_vklUdhMF8vFdjV9TIT38MLnGCt1g0uuDBdLYBU3-1i0qBpNfKjwjjnNCldzJsu0GRtLwhyzU1rmPK6APcpUIkX_jjbHsvUQ68zXKm2aGIBBOMLEoAyy7qu2dBQl8DX7a1cxalQdvMeBlWpp949oiutT3gKYvf9M8FsvLZkfl81JerFf97Rf0i8nAxtRirWOrR2qGBJyQ4ZJoyRW2mLExegHdxQFNdWY6hNHQ1e-11fEHqFRILWL37jTnYA6Shpu7DVwGjV51rTczw_c820K-x70DxGiuF_zbRXFys3xrALkwr67ZOWVEpzF1cCnTf30PQH5GrOBD5el0TD5_IfuwsZkVHEXaVz2__F8y7nTL5r84aBe0GNTgPHNFkbTDupA9hJ1FP2dv6tsxLTMvLcF1SitH_30w2nvvixq8s_YeRoMY0eFjGljGTWEq_8VIAEqCWV1LXdlc3QtMjCzBw.m3u8
 
-#EXTINF:-1 SPACE
+#EXTINF:-1, SPACE
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CqMFmFMqxNhc3CdOEnOHHovAqADYr_D2OcKERrukrQie-Hur7YDT4o2js5AYaSeBMl6TWja96IBBWGk2HvxG0KyNNZO5l26S6Aoz7Vqa2MLey7TpO46nEKZzme6HFhLMdUn4enm-FRl-eTWHPks8V_x7nzbtT9TFuoE838sVLVjSEft_FY-daeEXRo7LFSiO2ZpD3bc7GgQWGCYa-MjoFCZCMznCTmFOI0uHpSHOJdYCx5jG8nt8DDBZl4yf2c1OPbuBKp4S60bPdQsYTNObYCMKHAfPxC5yi8RmZ2CsvtgqrT2zuwyNsYTmsj3no-uHtuN4giPzSHHV89eEm_t75GT4e4dS1zqohPaBIHmMrUp32nacI6WzCXn-NmvBaxonQBuXbUUPH7RMu5Yx9deWlwEdqerpS4Hsj3pV_kTFi6RD7RsZfPyt0VECUNTZkdlMmVP2HT-Sks233zZEYFDyr5BHRfn5d8_qgm614otEramZCZKM_FhwGQ4lJoIlYXFq03X4VS3C6tWYX_a56oabIXoP8YjUz7JsO_cvMd1-96ePrlHvMfvZJpk09pVuLZWuyUgXc6bsMes9IEbMTs6iMwAseGTh-V8GNSdbOIUvMooQ3E1e4jgevvZQOmZ7JWzKsP3UOE3-YT20qWtNrwph_SZRSifwv83VpdMGdf5tn8k-C4AeSxm4I36ISwcYUT25ZVetm1BxJnjg_bTHvp5hyySphO0pX07MiMtCULEw1jQGjCY0QSNu8wOhd0JXXelykMLbb65i8YFiK0A566ljf9FjAhPzrDs4TJPS8MXU_0rilFAfbenpYVZIsJvd_-nh16sw16M6dS2OlFKOEbtilFSL54s7WVgHtjUyf5dH4XNKSytYrGCkZvfKQVgOrvrwIa9lIm87Ggw_o1OtbMbqGDKjEZwgASoJZXUtd2VzdC0yMLMH.m3u8
 
-#EXTINF:-1 LAS ESTRELLAS
+#EXTINF:-1, LAS ESTRELLAS
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CqIFXyJOLInNreFGtaarjrmy2c5y69HQnA7oQ2HSMNE-YIHfefGYPH0pWpUg4ArG81rzZy6wKRGOS-1aqXtKou7m4R6VqrTY4pSBtgeUPbsCEPDnBiWMkq0EYW1qUd8DHgGpkGUrqUT4WF0ePXRVOiP4kezhcfM1lf14muxOc3rI_XJW75mvVfsRqHlxn0ASuDECqG8ZnuXEzM0RVVk_S0W-ziiqqt2mMF8b8oZDOVw9qznE3UOI3CRP3aE0cWyRIVaPOQvcqA2P_CXcCJPaIviGCauKFKPOTBgsIuiovrkVjn-TDq9Stbnnl37unlyF3fCr6iblyEjhnQyPc_tnJ0WmLsImxbCKs9hK6icE1viWKWd09U-Qy0LfecHCFclUjUryx3rWonDfkmvEOtWLGidfrRfH2pf1rtC3hGwiZNBiN7_9pHtM6J-uxCP30teysgmjI2lnwfVVMf294NlbpMhTAhlQ6Yl_2foFGCA8b7drJIm4bk-VTJlJj3_HkmdM9TrnFLQTS0WDzTtvdOWSLZ9HOXtClsnLza_QouiP65hb0zu6jDU1N3fuREMGLZfjl3K98lAfn3Sd12A4J14dE4BMBCDGJkiUJNJ9iBSW1E2CYeJLlGqTSVrsTOnZGOSnI4kMzyWssKlGTiuukrvcs2spLsjXoC-PQhXlII27NfANj17RCDzfVhOz75lyOtCdYU718I-sbt4fC_wgNMDaJ40IsgK0oSHCAKwYoBmBjf0FHqOScbCtedKTc7WRry8yqCsOSfODemwNp1qFkgbq_6axPNGIOClhWbPdN0KaTU7GyirRycoeF6uO2mUQIq3L3o6QBRHlJyiLjykjlCg0WqoObAAjW13tepk8GSRKNUQ8_8kFzh08z4jex9C_hDxhDNy9YV4aDDMDjVvI7cf8fBqtYSABKgl1cy13ZXN0LTIwsgc.m3u8
 
-#EXTINF:-1 FOX-STAR
+#EXTINF:-1, FOX-STAR
 https://video-weaver.sao05.hls.ttvnw.net/v1/playlist/CqUFF1ealVpSZkDk6Tz3mXO2nDYP1h4nUvPccYCpG6OiPCDcghcrBkRW-pmaPyV4UWuDtsLXHGdv0GYx7z9upVxSsYL8z6S3LMzQ7wRuDHZFRdoNSxpsOl6ICJx8DXdo0mPCzG8PRL4O-mQ7lpnqkGe24RmU1a-03I0S-rz1986fu1l6ymb-A-L919x5HctdhCg7B3D7oRRgmYCbsIP4kCYziY_2zpm8WttZUfCQ0V8ZxvPkOsmtbf7qfJZdH9G6RvI62Sjsz1x4cRsJEz5i51bCJGw1l8_jB0hWWzEn0DWeWoUEnJVA5UGoBys8YNaJmH8aG23y0cjti1Sd5k0iuVNkRBscibcheRia2D-8cSPbP1BdrNKALda8AV3Rzx92X2lbEZ_ciRV9MEU_2_jhlvYt-7t6Y06KC3_UhFeiHxOli-5KkgYIEHWtvtIsPcXh3qzJFSRe08XqDOX8NQhtXzndDunW54OB6_KrW4Da_n9AuWKHK4IQnLJBoeaOB3r4Qy4kC-X6u8Vk4shx9OH4sysq3q4V9K0CL6T3N840XKC6E99iua7yM_GD6Way-PQR338NtofDzQLpt0Hv3_L7wlAHSCud0yk182UfhfbwaaCpieFhF2AAK-U0v4W-D96jjQGlFD3w1HreyOoeE_CicdFNiMkMjVjEyUie4-lnbDEZIzBu-YMJr10ctZ-IWDy9jxxQwAAMjodzsPC4oGmGnSyN8dVLvodsyFibfLp_Dr0X_zgZXwEdE2GUXc6kJ8kedLPPcMeN0h730PAEkfEEtO8ptb9p1ky2lIINuAyGXjBjbWOOwvlZkIe2ZjCX5mwWqYQThNBte_PcPIV5s3jmVfTFlOu20jxyDZMya6o7pN8RvFKsUwCWJpv20K-9UNP4NmUwrD_oVFkaDBz3azkAeOS4o_pNFSABKglldS13ZXN0LTIwswc.m3u8
 
-#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+#EXTINF:-1, tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AmagaTelevision.co" tvg-logo="https://i.imgur.com/hvpbfzG.png" group-title="General",Amagá Televisión (480p)
 http://hvtrafico.ddns.net/amagatv/amagatv.stream/playlist.m3u8
@@ -489,5 +489,5 @@ https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_BOOMERANG_ott/__op/dash-de
 #EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
 http://45.5.8.78:8000/play/a00i
 
-#EXTINF:-1 DISNEY XD
+#EXTINF:-1, DISNEY XD
 https://live.telelatinohd.com:8080/MTgxLjMzLjIwMC4yMw==/353_3050.ts
