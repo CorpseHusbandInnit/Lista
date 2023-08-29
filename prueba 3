@@ -12,13 +12,13 @@ https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cp8FM7zbhdmxOAXuNzDutbOOfa0
 #EXTINF:-1, group-title="COLOMBIA", CARACOL HD2
 https://s01.castamp.com/live/Exploring0037/chunklist.m3u8?h=bqIuS5p1g-i3nDa4J2-nCQ&e=1693326488&u=89e4e3a9af960ff48939e2169a88f922&d=181_33_200_23
 
-#EXTINF:-1 group-title="COLOMBIA", RCN
+#EXTINF:-1, group-title="COLOMBIA", RCN
 https://s01.castamp.com/live/Onyx3776/chunklist.m3u8?h=_E_z8EMFoTGzL0xIzxaexg&e=1693326331&u=223db6eb2e0a1f184e3d47324a5d4861&d=181_33_200_23
 
-#EXTINF:-1 tvg-id="CanalInstitucionalTV.co" tvg-logo="https://i.imgur.com/OzxNMDM.png" group-title="COLOMBIA",Canal Institucional (720p) [Not 24/7]
+#EXTINF:-1, tvg-id="CanalInstitucionalTV.co" tvg-logo="https://i.imgur.com/OzxNMDM.png" group-title="COLOMBIA",Canal Institucional (720p) [Not 24/7]
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CanalInstitucionalTV.co" tvg-logo="https://i.imgur.com/OzxNMDM.png" group-title="COLOMBIA",Canal Institucional 2 (720p) [Not 24/7]
+#EXTINF:-1, tvg-id="CanalInstitucionalTV.co" tvg-logo="https://i.imgur.com/OzxNMDM.png" group-title="COLOMBIA",Canal Institucional 2 (720p) [Not 24/7]
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 
 #EXTINF: -1, TELEVISA GUADALAJARA
@@ -143,49 +143,49 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.
 
 #EXTINF:-1 , group-title="Bics Extra", Fox Sports 3 USA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS3_stream_b7&_cdn_session=1107029779&_cdn_timestamp=1693297530&_cdn_token=a2dc0b929de5d288e3a5d095575ae70aac69bde4
-#EXTINF:-1  group-title="Bics Extra", ESPN USA
+#EXTINF:-1 , group-title="Bics Extra", ESPN USA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1107030315&_cdn_timestamp=1693297560&_cdn_token=633a549542cd08711de815518e4256194baf7b4e
-#EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
+#EXTINF:-1 , group-title="Bics Extra", ESPN 2 USA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN2/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1107031707&_cdn_timestamp=1693297628&_cdn_token=6aea2eda8a36b062eb5a4408246e05ff20e2f479
-#EXTINF:-1  group-title="Bics Extra", ESPN 3 USA
+#EXTINF:-1 , group-title="Bics Extra", ESPN 3 USA
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN3/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN3_stream_yi&_cdn_session=1107031819&_cdn_timestamp=1693297634&_cdn_token=2ad93260b48db895adf339405d246decdc999f1b
-#EXTINF:-1  group-title="Bics Extra", ESPN 4 USA
+#EXTINF:-1 , group-title="Bics Extra", ESPN 4 USA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS_stream_ml&_cdn_session=1107032011&_cdn_timestamp=1693297648&_cdn_token=37c09440aa652d412cd69feffab8832382ef5f82
-#EXTINF:-1  group-title="Bics Extra", ESPN EXTRA USA
+#EXTINF:-1 , group-title="Bics Extra", ESPN EXTRA USA
 http://177.53.153.21:8001/play/a03a/index.m3u8
 
 
 #EXTINF:-1  group-title="Bics Extra", Tigo Sports Guatemala
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1  group-title="Bics Extra", ESPN LatinoAmerica HD 
+#EXTINF:-1 ,group-title="Bics Extra", ESPN LatinoAmerica HD 
 http://181.209.173.10:9000/play/a069/index.m3u8
 
-#EXTINF:-1  group-title="Bics Extra", ESPN 3 
+#EXTINF:-1 , group-title="Bics Extra", ESPN 3 
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/132280
 
-#EXTINF:-1  group-title="Bics Extra", ITV Deportes 
+#EXTINF:-1 , group-title="Bics Extra", ITV Deportes 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=495e9b096e96cee4e541b0c2695a0fcb&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&site_page=https%253A%252F%252Fwww.canela.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=Central%20America&timestamp=1656899342&id=34434&ip=45.188.78.93&override_expiration=1500&sign=TxhnXtTkkmuchk54BrTTN4p4AevpD8%2Bnm3lscX9lXPg%3D
 
-#EXTINF:-1  group-title="Bics Extra", 55
+#EXTINF:-1 , group-title="Bics Extra", 55
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
-#EXTINF:-1  group-title="Bics Extra", Tigo Sports
+#EXTINF:-1 , group-title="Bics Extra", Tigo Sports
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1  group-title="Bics Extra", Golazo Network 
+#EXTINF:-1 , group-title="Bics Extra", Golazo Network 
 https://i.mjh.nz/PlutoTV/63a0e33a45264d000850ed7e-alt.m3u8
 
-#EXTINF:-1 group-title="App2tv", MLB Network
+#EXTINF:-1, group-title="App2tv", MLB Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mlb.network.us.m3u8
 
-#EXTINF:-1 group-title="App2tv", NBA TV
+#EXTINF:-1, group-title="App2tv", NBA TV
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nba.tv.usa.us.m3u8
 
-#EXTINF:-1 group-title="App2tv", NFL Network
+#EXTINF:-1, group-title="App2tv", NFL Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nfl.network.us.m3u8
 
-#EXTINF:-1 group-title="App2tv", NHL Network
+#EXTINF:-1, group-title="App2tv", NHL Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nhl.network.usa.us.m3u8
 
 #EXTINF:-1, TELEMUNDO
