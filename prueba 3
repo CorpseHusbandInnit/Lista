@@ -489,7 +489,5 @@ https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_BOOMERANG_ott/__op/dash-de
 #EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
 http://45.5.8.78:8000/play/a00i
 
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
-#EXTINF:-1
+#EXTINF:-1 DISNEY XD
+https://live.telelatinohd.com:8080/MTgxLjMzLjIwMC4yMw==/353_3050.ts
