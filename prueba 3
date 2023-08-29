@@ -480,6 +480,15 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Undefined",Zoom (1080p)
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 
+#EXTINF:-1 tvg-id="BoomerangFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang France (720p)
+http://51.81.185.2/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Boomerang HD
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_BOOMERANG_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
+http://45.5.8.78:8000/play/a00i
+
 #EXTINF:-1
 #EXTINF:-1
 #EXTINF:-1
